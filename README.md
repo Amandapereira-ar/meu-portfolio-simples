@@ -1,4 +1,6 @@
 # Portfólio Front-End Simples
+🔗 Site online: https://amandapereira-ar.github.io/meu-portfolio-simples/
+
 
 Este é um projeto simples de front-end, criado para praticar HTML e CSS.
 
