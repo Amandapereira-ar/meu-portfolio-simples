@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f0e1; /* bege clarinho */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #8B5E3C; /* marrom escuro */
+    color: #F5F0E1; /* bege para o texto */
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    background-color: #FAF3E0; /* bege mais claro */
+    margin: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #8B5E3C; /* marrom médio */
+}
+
+ul {
+    list-style-type: square;
+}.botao {
+    display: inline-block;
+    background-color: #8B5E3C; /* marrom escuro */
+    color: #F5F0E1; /* bege para o texto */
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+    font-weight: bold;
+}
+
+.botao:hover {
+    background-color: #A67650; /* marrom mais claro ao passar o mouse */
+    transform: scale(1.05); /* pequeno efeito de zoom */
+}
+
